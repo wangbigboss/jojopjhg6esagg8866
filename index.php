@@ -645,10 +645,9 @@ if ($_GET['act'] == "rt")
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-111725992-1');
 </script>
-<p>fdasfdasfjjo</p>
+
 	
 <title><?php echo $title.$version; ?></title>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
@@ -803,7 +802,7 @@ function displayData(dataJSON)
 			<th class="w_top"><a href="#w_MySQL">MySQL檢測</a></th>
 			<th class="w_top"><a href="#w_function">函数檢測</a></th>
 			<th class="w_top"><a href="#w_mail">郵件檢測</a></th>
-			<th class="w_top"><a href="http://www.yahei.net/tz/tz_tw.zip">探針下载</a></th>
+			<th class="w_top"><a href="www.4399.com">探針下载</a></th>
 		</tr>
 	</table>
 
@@ -986,8 +985,9 @@ foreach ($able as $key=>$value) {
 <a name="w_php"></a>
 <table>
   <tr><th colspan="4">PHP相關參數</th></tr>
+    <p>fuck shit asshole</p>
   <tr>
-    <td width="32%">PHP資訊（phpinfo）gugugufdgghv：</td>
+    <td width="32%">PHP資訊fuckrly：</td>
     <td width="18%">
 		<?php
 		$phpSelf = $_SERVER[PHP_SELF] ? $_SERVER[PHP_SELF] : $_SERVER[SCRIPT_NAME];
