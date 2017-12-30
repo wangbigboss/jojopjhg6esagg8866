@@ -975,7 +975,7 @@ foreach ($able as $key=>$value) {
 <table>
   <tr><th colspan="4">PHP相關參數</th></tr>
   <tr>
-    <td width="32%">PHP資訊（phpinfo）：</td>
+    <td width="32%">PHP資訊（phpinfo）gugugufdgghv：</td>
     <td width="18%">
 		<?php
 		$phpSelf = $_SERVER[PHP_SELF] ? $_SERVER[PHP_SELF] : $_SERVER[SCRIPT_NAME];
